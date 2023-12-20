@@ -24,6 +24,7 @@ Commented out the following
 
 
 -- Next Steps 
--- Clean DevType and Visualize column with Salary 
--- Orgizatization size
--- Features to work with 
+
+- Clean DevType and Visualize column with Salary 
+- Orgizatization size
+- Features to work with 
